@@ -5,5 +5,5 @@ Based on https://github.com/wuchong/flink-sql-demo.
 
 This modifies the original project to use Redpanda in place of Kafka.
 Apart from this detail, the instructions as per the blog
-http://wuchong.me/blog/2020/02/25/demo-building-real-time-application-with-flink-sql/
+https://flink.apache.org/2020/07/28/flink-sql-demo-building-e2e-streaming-application.html
 should work with no modifications.
